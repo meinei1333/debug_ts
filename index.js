@@ -1,2 +1,2 @@
-let s:string = "11"
+var s = "11";
 console.log("s", s);
